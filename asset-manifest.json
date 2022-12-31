@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ria-mikuji/static/css/main.082440f1.css",
-    "main.js": "/ria-mikuji/static/js/main.01d30a99.js",
+    "main.js": "/ria-mikuji/static/js/main.70b41330.js",
     "static/js/787.c8340c1e.chunk.js": "/ria-mikuji/static/js/787.c8340c1e.chunk.js",
     "static/media/ataria.svg": "/ria-mikuji/static/media/ataria.2e27df844c630bf3179d72df0a3b7b89.svg",
     "static/media/cyoukichiria.svg": "/ria-mikuji/static/media/cyoukichiria.06214093eeb5e3c3ce73b54dfa5cf51a.svg",
@@ -16,11 +16,11 @@
     "static/media/ria.svg": "/ria-mikuji/static/media/ria.d8e492564a273f26b270017347c1dfb0.svg",
     "index.html": "/ria-mikuji/index.html",
     "main.082440f1.css.map": "/ria-mikuji/static/css/main.082440f1.css.map",
-    "main.01d30a99.js.map": "/ria-mikuji/static/js/main.01d30a99.js.map",
+    "main.70b41330.js.map": "/ria-mikuji/static/js/main.70b41330.js.map",
     "787.c8340c1e.chunk.js.map": "/ria-mikuji/static/js/787.c8340c1e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.082440f1.css",
-    "static/js/main.01d30a99.js"
+    "static/js/main.70b41330.js"
   ]
 }
