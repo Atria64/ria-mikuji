@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/static/css/main.082440f1.css",
+    "main.js": "/static/js/main.b2f03aaa.js",
+    "static/js/787.c8340c1e.chunk.js": "/static/js/787.c8340c1e.chunk.js",
+    "static/media/ataria.svg": "/static/media/ataria.2e27df844c630bf3179d72df0a3b7b89.svg",
+    "static/media/cyoukichiria.svg": "/static/media/cyoukichiria.06214093eeb5e3c3ce73b54dfa5cf51a.svg",
+    "static/media/oomoria.svg": "/static/media/oomoria.abeac9ef9c1e550f32e81b018dd3421c.svg",
+    "static/media/cyuukichiria.svg": "/static/media/cyuukichiria.b744fc225e28043655ea47c1c8e9ddf9.svg",
+    "static/media/ryouria.svg": "/static/media/ryouria.b7d255f9ca29e0267fdca5ba1b6b9041.svg",
+    "static/media/maturia.svg": "/static/media/maturia.6bb812ed824c2cf96e8206568ac3ba2e.svg",
+    "static/media/suekichiria.svg": "/static/media/suekichiria.7f602229e63321ad8754e74a6267f21f.svg",
+    "static/media/kichiria.svg": "/static/media/kichiria.8f2f183d39a4a4c6b7f02635d2b8ea80.svg",
+    "static/media/nemuria.svg": "/static/media/nemuria.53e1abe8e4592e654e15fde94cd8f5f9.svg",
+    "static/media/NotFound.svg": "/static/media/NotFound.9ea5ed1f6862021e679a9af26eb413f1.svg",
+    "static/media/ria.svg": "/static/media/ria.d8e492564a273f26b270017347c1dfb0.svg",
+    "index.html": "/index.html",
+    "main.082440f1.css.map": "/static/css/main.082440f1.css.map",
+    "main.b2f03aaa.js.map": "/static/js/main.b2f03aaa.js.map",
+    "787.c8340c1e.chunk.js.map": "/static/js/787.c8340c1e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.082440f1.css",
+    "static/js/main.b2f03aaa.js"
+  ]
+}
